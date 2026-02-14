@@ -26,3 +26,18 @@ Face increasing regulatory pressure due to environmental standards
 Operate with unavoidable energy losses
 
 With rising fuel costs and stricter emission norms, there is a need for energy-efficient hybrid propulsion systems that can assist conventional engines.
+## Proposed Solution
+
+This project introduces a Hybrid Compressed Air Propulsion System that integrates:
+
+Front-end suction motors
+
+Primary energy recovery turbines
+
+High-pressure compression chambers
+
+Secondary turbine expansion system
+
+Propulsion motor assist mechanism
+
+The system creates a regenerative airflow cycle that converts ambient air movement into usable propulsion support energy.
