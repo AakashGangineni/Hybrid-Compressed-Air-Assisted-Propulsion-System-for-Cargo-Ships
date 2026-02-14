@@ -116,3 +116,16 @@ Reduced engine strain
 Improved emission compliance
 
 Enhanced sustainability profile for shipping companies
+## Technical Considerations
+
+Compression-expansion losses (thermodynamic limitations)
+
+Structural safety of high-pressure storage cylinders
+
+Weight vs efficiency tradeoff
+
+Energy conversion efficiency of turbines
+
+Maintenance complexity in marine environments
+
+This system is designed as a supplementary hybrid system, not a standalone propulsion replacement.
