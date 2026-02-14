@@ -129,3 +129,14 @@ Energy conversion efficiency of turbines
 Maintenance complexity in marine environments
 
 This system is designed as a supplementary hybrid system, not a standalone propulsion replacement.
+## Future Scope
+
+Computational fluid dynamics (CFD) analysis of airflow
+
+Detailed thermodynamic modeling
+
+Real-world efficiency simulations
+
+Integration with battery-electric hybrid systems
+
+Scaled prototype testing
