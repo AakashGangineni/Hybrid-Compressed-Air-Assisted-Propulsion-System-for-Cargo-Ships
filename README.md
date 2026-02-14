@@ -107,3 +107,12 @@ Decrease greenhouse gas emissions
 Improve energy utilization efficiency
 
 Provide scalable solution for heavy cargo vessels
+## Expected Benefits
+
+Partial fuel savings during long voyages
+
+Reduced engine strain
+
+Improved emission compliance
+
+Enhanced sustainability profile for shipping companies
