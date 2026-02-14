@@ -83,3 +83,16 @@ Supports conventional propeller drive
 Reduces diesel engine load
 
 Improves fuel efficiency under cruising conditions
+## Working Principle
+
+Airflow Path:
+
+Ambient Air
+→ Suction Motors
+→ Primary Turbine (Electricity Generation)
+→ Compression Chamber (Energy Storage)
+→ Secondary Turbine (Energy Recovery)
+→ Propulsion Motor Assist
+→ Air Exhaust
+
+The system functions as a hybrid assist loop, not a perpetual energy system. Energy losses due to compression, friction, and turbine inefficiencies are considered in the design assumptions.
