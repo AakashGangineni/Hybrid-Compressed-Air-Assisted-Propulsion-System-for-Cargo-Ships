@@ -41,3 +41,45 @@ Secondary turbine expansion system
 Propulsion motor assist mechanism
 
 The system creates a regenerative airflow cycle that converts ambient air movement into usable propulsion support energy.
+## System Architecture
+1. Suction Motor Unit
+
+Located at the front of the ship
+
+Draws in ambient air
+
+Initially powered by battery or auxiliary source
+
+Provides airflow to the primary turbine
+
+2. Primary Turbine
+
+Converts airflow kinetic energy into electrical energy
+
+Supplies power to recharge onboard batteries
+
+Feeds compression subsystem
+
+3. Compression Chamber
+
+Compresses incoming air to high pressure
+
+Stores compressed air in reinforced cylinders
+
+Acts as an energy reservoir
+
+4. Secondary Expansion Turbine
+
+Releases stored compressed air
+
+Converts pressure energy into rotational mechanical energy
+
+Transfers torque to propulsion motor
+
+5. Propulsion Assist System
+
+Supports conventional propeller drive
+
+Reduces diesel engine load
+
+Improves fuel efficiency under cruising conditions
