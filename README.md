@@ -96,3 +96,14 @@ Ambient Air
 → Air Exhaust
 
 The system functions as a hybrid assist loop, not a perpetual energy system. Energy losses due to compression, friction, and turbine inefficiencies are considered in the design assumptions.
+## Key Objectives
+
+Reduce marine diesel consumption
+
+Lower operational fuel costs
+
+Decrease greenhouse gas emissions
+
+Improve energy utilization efficiency
+
+Provide scalable solution for heavy cargo vessels
