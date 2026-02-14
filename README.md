@@ -13,3 +13,16 @@ Reduce fuel dependency
 Lower greenhouse gas emissions
 
 Improve overall propulsion efficiency
+## Problem Statement
+
+Modern cargo ships rely heavily on marine diesel engines, which:
+
+Consume large volumes of fuel
+
+Produce significant CO₂ emissions
+
+Face increasing regulatory pressure due to environmental standards
+
+Operate with unavoidable energy losses
+
+With rising fuel costs and stricter emission norms, there is a need for energy-efficient hybrid propulsion systems that can assist conventional engines.
