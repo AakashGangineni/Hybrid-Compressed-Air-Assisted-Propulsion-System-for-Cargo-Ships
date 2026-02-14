@@ -140,3 +140,8 @@ Real-world efficiency simulations
 Integration with battery-electric hybrid systems
 
 Scaled prototype testing
+## Project Author
+
+Aakash Gangineni
+23FE10CSE00270
+Manipal University Jaipur
